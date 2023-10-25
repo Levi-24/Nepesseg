@@ -1,0 +1,13 @@
+C:\Users\Ny19MajorL\source\repos\Nepesseg\bin\Debug\netcoreapp3.1\Nepesseg.exe
+C:\Users\Ny19MajorL\source\repos\Nepesseg\bin\Debug\netcoreapp3.1\Nepesseg.deps.json
+C:\Users\Ny19MajorL\source\repos\Nepesseg\bin\Debug\netcoreapp3.1\Nepesseg.runtimeconfig.json
+C:\Users\Ny19MajorL\source\repos\Nepesseg\bin\Debug\netcoreapp3.1\Nepesseg.runtimeconfig.dev.json
+C:\Users\Ny19MajorL\source\repos\Nepesseg\bin\Debug\netcoreapp3.1\Nepesseg.dll
+C:\Users\Ny19MajorL\source\repos\Nepesseg\bin\Debug\netcoreapp3.1\Nepesseg.pdb
+C:\Users\Ny19MajorL\source\repos\Nepesseg\obj\Debug\netcoreapp3.1\Nepesseg.csprojAssemblyReference.cache
+C:\Users\Ny19MajorL\source\repos\Nepesseg\obj\Debug\netcoreapp3.1\Nepesseg.csproj.CoreCompileInputs.cache
+C:\Users\Ny19MajorL\source\repos\Nepesseg\obj\Debug\netcoreapp3.1\Nepesseg.AssemblyInfoInputs.cache
+C:\Users\Ny19MajorL\source\repos\Nepesseg\obj\Debug\netcoreapp3.1\Nepesseg.AssemblyInfo.cs
+C:\Users\Ny19MajorL\source\repos\Nepesseg\obj\Debug\netcoreapp3.1\Nepesseg.dll
+C:\Users\Ny19MajorL\source\repos\Nepesseg\obj\Debug\netcoreapp3.1\Nepesseg.pdb
+C:\Users\Ny19MajorL\source\repos\Nepesseg\obj\Debug\netcoreapp3.1\Nepesseg.genruntimeconfig.cache
